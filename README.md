@@ -189,4 +189,6 @@ This two-step design means the AI is never the final source of truth on what exi
 ## 📄 License
 
 MIT — free to use, modify, and build on. This product uses the TMDB API but is not endorsed or certified by TMDB.
+
 Mohammad Mahdi Mohammadi
+
